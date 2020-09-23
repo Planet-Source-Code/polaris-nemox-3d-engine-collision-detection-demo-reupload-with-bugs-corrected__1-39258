@@ -1,0 +1,27 @@
+this demo show how to handle collision detection with world
+in NemoX engine
+
+because PSC do not allow to upload EXE and lib file
+
+
+please
+  
+  1)
+  Rename NemoMathLIB.renameDLL to NemoMathLIB.dll and copy it to the system dir
+
+
+ 2)
+  Rename NemoMathLIB.Renametlb to NemoMathLIB.tlb and copy it to the system dir
+
+
+3) run the project
+
+if you obtain errors
+you can make reference manualy in VB IDE to the NemoMathLIB.tlb in your system directory
+
+
+ANY comment or remark are welcome
+write me at Johna.pop@caramail.com for
+questions
+
+IF U LIKE THIS VOTE FOR IT
